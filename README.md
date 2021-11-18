@@ -1,4 +1,4 @@
-# IMG2ASCII
+# IMG 2 ASCII
 Convert images to ascii (images) from the commandline
 
 ## How it works
